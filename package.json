@@ -1,0 +1,17 @@
+{
+  "name": "typora-remark",
+  "version": "1.0.0",
+  "description": "Beautify markdown code in Typora with Remark.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typora",
+    "remark",
+    "beautify",
+    "markdown"
+  ],
+  "author": "tengattack",
+  "license": "MIT"
+}
